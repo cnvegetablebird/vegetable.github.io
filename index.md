@@ -1,5 +1,5 @@
 
-![avatar](/Users/cn/Desktop/1.png)
+![image](/Users/cn/Desktop/1.png)
 
 
 感谢您的支持
